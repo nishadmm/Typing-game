@@ -1,0 +1,3 @@
+# Typing-game
+
+> If you want to build a typing game with Vanila javascript Lets Build....
